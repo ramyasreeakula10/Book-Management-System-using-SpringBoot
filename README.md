@@ -4,11 +4,13 @@ A Spring Boot RESTful CRUD application for managing books using Java, Spring Dat
 
 Book Management System – Spring Boot,Mysql workbench,postman
 
+
 🔹 Overview
 
 This is a Spring Boot REST API project that provides CRUD (Create, Read, Update, Delete) operations for managing books.
 
 The application follows a layered architecture with Controller, Service, Repository, and Entity layers.
+
 
 🔹 Features
 
@@ -23,6 +25,7 @@ Delete a book by ID
 RESTful API design
 
 MySQL database integration
+
 
 🔹 Technologies Used
 
